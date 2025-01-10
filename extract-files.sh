@@ -10,6 +10,7 @@ ROM_ZIP=$1
 declare -a DTBO_PANEL_PATCHES=(
     "Peridot:dsi_n16t_36_0f_0b_dsc_vid"
     "Peridot:dsi_n16t_42_02_0a_dsc_vid"
+    "Peridot:dsi_n16t_42_0a_0c_dsc_vid"
 )
 
 error_handler() {
